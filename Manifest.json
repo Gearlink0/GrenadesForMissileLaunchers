@@ -1,0 +1,10 @@
+{
+	"id": "GrenadesForMissileLaunchers",
+	"loadorder": 1,
+	"title": "{{GrenadesForMissileLaunchers}}",
+	"description": "A small mod that allows missile launchers to fire grenades.",
+	"tags": "Weapon",
+	"version": "1.0",
+	"author": "Gearlink",
+	"previewImage": "preview.png"
+}

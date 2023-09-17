@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+
+	<object Name="Grenade" Load="Merge">
+		<part Name="AmmoMissileLauncher" />
+	</object>
+
+	<object Name="HE Missile" Load="Merge">
+		<part Name="AmmoMissileLauncher" />
+	</object>
+
+	<object Name="Missile Launcher" Load="Merge">
+		<part Name="MissileWeapon" WeaponAccuracy="3" />
+		<part Name="MagazineAmmoLoader" ProjectileObject="" AmmoPart="AmmoMissileLauncher" MaxAmmo="1" />
+		<part Name="Description" Short="A mechanism in the wide missile chute affixes fins and propellant canisters to gift compatible cylinders with flight in their last moments before detonation." />
+		<part Name="Examiner" Unknown="UnknownStrangeTubes" Alternate="UnknownStrangeTubes" Complexity="5" />
+    <part Name="TinkerItem" Bits="0005" CanDisassemble="true" CanBuild="true" />
+		<tag Name="Tier" Value="5" />
+  </object>
+
+</objects>

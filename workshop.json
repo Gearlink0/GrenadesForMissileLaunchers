@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3037283465,
+  "Title": "Grenades For Missile Launchers",
+  "Description": "A small mod that allows missile launchers to load and fire grenades in addition to HE missiles. The missile launcher has also had its accuracy improved and been moved to tier 5 to differentiate it from the grenade launcher.\r\n\r\nOther weapons which can be loaded with HE missile are unchanged.\r\n\r\nThe code is stored on [url=https://github.com/Gearlink0/GrenadesForMissileLaunchers]Github[/url], if you are interested.",
+  "Tags": "Weapon",
+  "Visibility": "0",
+  "ImagePath": "preview.png"
+}
